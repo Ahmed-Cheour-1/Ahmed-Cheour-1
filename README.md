@@ -37,14 +37,6 @@ I enjoy taking projects from raw concepts to working, polished systems.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-cheour-1&show_icons=true&locale=en&layout=compact&theme=default" />
-</p>
-
----
-
 ### 📫 Connect
 
 - Email: [ahmed.cheour@esprit.tn](mailto:ahmed.cheour@esprit.tn)
