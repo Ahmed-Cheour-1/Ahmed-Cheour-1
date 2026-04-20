@@ -1,17 +1,51 @@
-<h1 align="center">Hi 👋, I'm Ahmed CHeour</h1>
-<h3 align="center">A passionate IT student from Tunisia</h3>
-
-- 🔭 I’m currently working on [a 2d game made with C](https://github.com/Mohamed2-SWINKY/sherlock-holmes-The-Game-Groupe-3-)
-
-- 🌱 I’m currently learning **C language, Networking**
-
-- 📫 How to reach me **Ahmed.Cheour@esprit.tn**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center">Ahmed Cheour</h1>
+<p align="center">
+  IT Student · ESPRIT, Tunisia &nbsp;·&nbsp;
+  <a href="mailto:ahmed.cheour@esprit.tn">ahmed.cheour@esprit.tn</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-1D9E75?style=flat-square&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Learning-C%20%26%20Networking-378ADD?style=flat-square&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Based%20in-Tunisia-EF9F27?style=flat-square&labelColor=0a0a0a" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-cheour-1&show_icons=true&locale=en&layout=compact" alt="ahmed-cheour-1" /></p>
+---
+
+### About me
+
+Passionate IT student from Tunisia exploring systems programming, networking, and creative development.
+Currently building a **2D fighting game in C with SDL2** — from state machines and hitbox physics to audio engines and pause menus.
+I enjoy taking projects from raw concepts to working, polished systems.
+
+---
+
+### 🕹️ Featured Project
+
+**[Sherlock Holmes: The Unseen Enemy](https://github.com/Mohamed2-SWINKY/sherlock-holmes-The-Game-Groupe-3-)**
+> A 2D multiplayer fighting game built from scratch in C using SDL2, SDL_mixer, and SDL_image.
+> Features: full game state machine, character/outfit selection, hitbox physics, dedicated audio channels, and a pause menu system.
+
+`C` `SDL2` `SDL_mixer` `SDL_image` `State Machine`
+
+---
+
+### 🛠️ Languages & Tools
+
+`C` `Python` `JavaScript` `HTML/CSS` `Tailwind CSS` `Qt`
+`Arduino` `Git` `Linux` `Photoshop` `Illustrator`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-cheour-1&show_icons=true&locale=en&layout=compact&theme=default" />
+</p>
+
+---
+
+### 📫 Connect
+
+- Email: [ahmed.cheour@esprit.tn](mailto:ahmed.cheour@esprit.tn)
+- GitHub: [@ahmed-cheour-1](https://github.com/ahmed-cheour-1)
